@@ -2,7 +2,7 @@
 
 A senior interested in Data Science, QA, Software Development, and DevOps.
 
-California State University Los Angeles
+Pursuing a bachelors of Computer Science at California State University Los Angeles
 
 ## Main Programming Languages:
 
