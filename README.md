@@ -9,6 +9,7 @@ California State University Los Angeles
 * Java
 * Python
 * C
+
 ## Projects
 
 ### PhotoArchive
