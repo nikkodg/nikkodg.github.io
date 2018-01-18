@@ -6,9 +6,9 @@ California State University Los Angeles
 
 ## Main Programming Languages:
 
-* Java
-* Python
-* C
+> Java
+> Python
+> C
 
 ## Projects
 
