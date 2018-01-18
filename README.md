@@ -6,11 +6,11 @@ California State University Los Angeles
 
 ## Main Programming Languages:
 
-> Java
-> Python
-> C
+* Java
+* Python
+* C
 
-# Projects
+# Projects:
 
 ### PhotoArchive
 Designed and developed a Photo Archive Mobile Application for the City of Los Angeles' Bureau of Engineering as part of the Professional Practice Program at Cal State LA. 
